@@ -49,12 +49,16 @@ Thus, the sample universe we seek to represent is as follows:
 
 
 Sources: 
-*https://arxiv.org/abs/2111.09453
-*https://huggingface.co/pysentimiento/robertuito-sentiment-analysis
-* https://huggingface.co/bertin-project/bertin-roberta-base-spanish
-*https://github.com/pysentimiento/robertuito
-*https://www.statista.com/statistics/242606/number-of-active-twitter-users-in-selected-countries/
-![image](https://github.com/PabloAguirreSolana/Social-Media-Electoral-Analytics/assets/90428092/c7096309-552b-4e4a-88ae-48404249b955)
+
+https://arxiv.org/abs/2111.09453
+
+https://huggingface.co/pysentimiento/robertuito-sentiment-analysis
+
+https://huggingface.co/bertin-project/bertin-roberta-base-spanish
+
+https://github.com/pysentimiento/robertuito
+
+
 
 
 
